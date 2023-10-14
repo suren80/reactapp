@@ -4,7 +4,7 @@ import './App.css';
 import SearchBar from './components/SearchBar';
 import searchImages from './api';
 import ImageList from "./components/ImageList";
-
+// Commeted code for git commit
 
 
 function App() {
